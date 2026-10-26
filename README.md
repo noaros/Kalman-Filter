@@ -12,7 +12,8 @@ The following chart is from running the project with the actual board, using the
 
 <img width="2874" height="1750" alt="image" src="https://github.com/user-attachments/assets/6896d645-da72-4991-b855-d40fe34c9b46" />
 
-Below is the Claude generated README
+Below is the Claude generated README. There is ample documentation throughout the project, including the source code.
+
 
 =============================================================================
 
