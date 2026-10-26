@@ -8,7 +8,7 @@ And here is another one summarizing the results of this project, specifically:
 
 https://claude.ai/artifact/Tdm1RzNMpP2HfhfXdDUTS2
 
-<img width="2866" height="1744" alt="image" src="https://github.com/user-attachments/assets/9af5f849-03af-4159-a237-8c99acdfcaf7" />
+<img width="2874" height="1750" alt="image" src="https://github.com/user-attachments/assets/6896d645-da72-4991-b855-d40fe34c9b46" />
 
 
 ==================================
