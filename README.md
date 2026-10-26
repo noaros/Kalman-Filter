@@ -8,9 +8,11 @@ And here is another one summarizing the results of this project, specifically:
 
 https://claude.ai/artifact/Tdm1RzNMpP2HfhfXdDUTS2
 
-The following chart is from running the project with the actual board, using the Python plotting. The temperature increase was from moving the board and putting my finger on the chip.
+The following chart is from running the project with the actual board, using the Python plotting. The temperature increase was from moving the board into the sun and putting my finger on the chip.
 
 <img width="2874" height="1750" alt="image" src="https://github.com/user-attachments/assets/6896d645-da72-4991-b855-d40fe34c9b46" />
+
+As a sanity check I tried another experiment (not shown) where I used a ceramic heater and watched the temperature shoot straight up!
 
 Below is the Claude generated README. There is ample documentation throughout the project, including the source code.
 
