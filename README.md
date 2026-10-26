@@ -1,5 +1,10 @@
 # Kalman-Filter
 
+<img width="2866" height="1744" alt="image" src="https://github.com/user-attachments/assets/9af5f849-03af-4159-a237-8c99acdfcaf7" />
+
+
+==================================
+
 A bare-metal Kalman filter demo for the **NUCLEO-F429ZI** board. The STM32F429's
 built-in temperature sensor gives slowly changing, noisy readings, and a scalar
 Kalman filter smooths them in real time. Both the raw and the filtered values
